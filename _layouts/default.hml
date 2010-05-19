@@ -13,7 +13,7 @@
 
     <div id="footer">
 
-      <p><a href="http://support.newrelic.com/faqs">FAQ</a>&nbsp;|&nbsp;<a href="http://support.newrelic.com/faqs/docs/knowledge-base-table-of-contents">Docs</a>&nbsp;|&nbsp;<a href="http://twitter.com/newrelicstatus">RPM Status on Twitter</a>&nbsp;|&nbsp;<a href="rpmstatus.newrelic.com">RPM Status Blog</a>&nbsp;|&nbsp;<a href="http://support.newrelic.com">Support</a></p>
+      <p><a href="http://support.newrelic.com/faqs">FAQ</a>&nbsp;|&nbsp;<a href="http://support.newrelic.com/faqs/docs/knowledge-base-table-of-contents">Docs</a>&nbsp;|&nbsp;<a href="http://twitter.com/newrelicstatus">RPM Status on Twitter</a>&nbsp;|&nbsp;<a href="http://rpmstatus.newrelic.com">RPM Status Blog</a>&nbsp;|&nbsp;<a href="http://support.newrelic.com">Support</a></p>
 
       <p>Copyright &copy; 2008-2010 <a href="http://www.newrelic.com">New Relic, Inc.</a> All rights reserved. All trademarks, trade names, service marks and logos referenced herein belong to their respective companies.
       </p>
