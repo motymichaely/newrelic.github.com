@@ -1,4 +1,3 @@
-<link rel="stylesheet" type="text/css" href="NewRelic-git.css" />
 ---
 title: New Relic
 ---
