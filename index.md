@@ -1,5 +1,6 @@
 ---
-title: New Relic
+title: Github Projects
+layout: default
 ---
 
 New Relic Github Projects
