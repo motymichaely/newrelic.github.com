@@ -37,7 +37,7 @@ h2 {
 	line-height: 18px;
 	font-weight: normal;
 	color: #882222;
-	padding: 14px 0 0 20px;
+	padding: 14px 25px 0 25px;
 }
 
 h3 {
@@ -45,16 +45,34 @@ h3 {
 	line-height: 18px;
 	font-weight: normal;
 	color: #882222;
-	padding: 0 0 0 20px;
+	padding: 0 25px 0 25px;
 }
 
 p {
 	font-size: 12px;
 	line-height: 18px;
-	padding: 0 0 0 20px;
+	padding: 0 25px 0 25px;
 }
 
 strong {
 	color:#333;
+}
+
+div#footer {
+	width: 420px;
+	float: left;
+	font-size: 10px;
+	line-height: 14px;
+	margin-right: 25px;
+	margin-top: 20px;
+	padding-top: 5px;
+	padding-bottom: 20px;
+	background: transparent url("http://content.newrelic.com/www/images/git-footer.png") no-repeat left top;
+}
+
+div#footer p {
+	font-size: 10px;
+	line-height: 12px;
+	padding: 0 10px 0 20px;
 }
 
