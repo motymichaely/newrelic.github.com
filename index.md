@@ -22,7 +22,7 @@ how to customize RPM for your application.
 
 The [newrelic_api](http://github.com/newrelic/newrelic_api) contains documentation
 and examples on our public APIs, and includes ActiveResource helpers.
-Details and documentation are best viewed at [here](http://newrelic.github.com/newrelic_api).
+Details and documentation are best viewed [here](http://newrelic.github.com/newrelic_api).
 
 # Experimental Projects
 
