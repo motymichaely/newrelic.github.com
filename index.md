@@ -15,15 +15,14 @@ following gems:
 
 The [newrelic_rpm](http://github.com/newrelic/rpm) gem is our Ruby agent for the New Relic
 application.  For more information on RPM go to
-http://www.newrelic.com.  Refer to our [API Docs](/rpm) for details on
+[www.newrelic.com](http://www.newrelic.com).  Refer to our [API Docs](/rpm) for details on
 how to customize RPM for your application.
 
 ## newrelic_api
 
 The [newrelic_api](http://github.com/newrelic/newrelic_api) contains documentation
 and examples on our public APIs, and includes ActiveResource helpers.
-Details and documentation are best viewd at [newrelic_api.github.com/newrelic_api](http://newrelic.github.com/newrelic_api)
-file.
+Details and documentation are best viewed at [here](http://newrelic.github.com/newrelic_api).
 
 # Experimental Projects
 
