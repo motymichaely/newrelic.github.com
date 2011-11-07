@@ -3,7 +3,7 @@ title: Github Projects
 layout: default
 ---
 
-New Relic Github Projects
+New Relic Gems
 =========================
 
 Welcome to the Github repository of [New Relic, Inc](http://www.newrelic.com)!
